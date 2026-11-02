@@ -1,0 +1,5 @@
+# Pyrefly configuration
+# https://pyrefly.org/en/docs/configuration/
+
+[python]
+interpreter = "/Users/macAir/Documents/AI/agentic-ai-demo/.venv/bin/python"
